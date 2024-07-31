@@ -45,7 +45,7 @@ Esse projeto é parte da documentação oficial da Hashicorp (https://developer.
     ```sh
     vagrant ssh
     ```
-3. A aplicação provisionada estará disponível na porta 4567 do host. Podendo ser acessada através do navegador (http://127.0.0.1:4567)
+3. A aplicação provisionada estará disponível na porta 4567 do host. Podendo ser acessada através do navegador (http://127.0.0.1:4568)
 
 ## Código do Script
 

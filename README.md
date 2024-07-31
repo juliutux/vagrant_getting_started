@@ -1,6 +1,6 @@
 # Projeto: Criar uma máquina virtual, instalar o servidor web Apache e servir uma página teste.
 
-Esse repositório contém um projeto simples de IaC, seguindo a própia documentação da plataforma Harshicorp Vagrant. O objetivo é provisionar uma máquina virtual com o sistema GNU/Linux, instalar um servidor Web através de um Shell Script e disponibilizar uma página através da máquina convidada.
+Esse repositório contém um projeto simples de IaC(Infraestructure as Code), seguindo a própia documentação da plataforma Harshicorp Vagrant. O objetivo é provisionar uma máquina virtual com o sistema GNU/Linux, instalar um servidor Web através de um Shell Script e disponibilizar uma página através da máquina convidada.
 
 ## Descrição
 
